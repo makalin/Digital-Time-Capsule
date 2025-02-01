@@ -39,8 +39,8 @@ This view focuses on **Digital Trends**, displaying categories like Social Media
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/digital-time-capsule.git
-   cd digital-time-capsule
+   git clone https://github.com/makalin/Digital-Time-Capsule.git
+   cd Digital-Time-Capsule
    ```
 2. Install dependencies:
    ```bash
